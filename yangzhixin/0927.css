@@ -1,0 +1,76 @@
+#div1{
+	width: 200px;
+    height: 25px;
+    background-color: #49443f;
+    position: absolute;
+    top: 340px;
+    left: 185px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#dw{
+     	position: absolute;
+     	top:167px;
+     	left: 236px;
+     	width: 100px;
+     	height: 100px;
+     	visibility: hidden;
+     	cursor: pointer;
+        opacity: 0.5;
+     }
+#shipin{
+	cursor: pointer;
+}
+#jindu{
+	width: 548px;
+    height: 5px;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 386px;
+    background-color: white;
+    cursor: pointer;
+    border-radius:5px;
+
+}
+
+#jindu1{
+	
+    height: 5px;
+    cursor: pointer;
+}
+.css1{
+	display: block;
+}
+.css2{
+	display: none;
+}
+#tiaojie{
+	width: 10px;
+	height: 100px;
+	
+	position: absolute;
+    top: 238px;
+    left: 360px;
+    border: 1px solid #ccc;
+    background-color: #B0C4DE;
+    cursor: pointer;
+    border-radius:5px;
+    visibility: hidden;
+}
+#bianhua{
+	width: 10px;
+	/*height: 100px;*/
+	cursor: pointer;
+	background-color: white;
+	
+}
+#shijian{
+    position: relative;
+    top: -95px;
+    left: 0px;
+    width: 35px;
+    height: 18px;
+    background-color: white;
+    border-radius:5px;
+    visibility: hidden;
+}
